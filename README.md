@@ -31,4 +31,5 @@ Python, FastAPI, SQLite/Supabase, Streamlit (prototype), scikit-learn/XGBoost, T
 Figures such as early-warning time, recall and loss reduction in our presentation are pilot targets, not achieved results. The proposed pricing is our own proposal, not market data.
 
 ## Team
-Add team name and members here.
+Tech Minds
+
